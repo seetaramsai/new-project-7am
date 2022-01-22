@@ -7,5 +7,8 @@ public class GreensTech {
 		System.out.println("Greens Main location : Adayar");
 		
 	}
+	private void greensAnotherLocation() {
+		System.out.println("Greens Branch1: Perumbakkam");
+	}
 
 }
